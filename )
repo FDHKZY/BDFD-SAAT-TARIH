@@ -1,0 +1,31 @@
+```
+
+$nomention
+
+$time[Europe/Istanbul]
+
+$title[ ⏱ | Yaşadığın Yerin Tarihi ve Saati]
+
+$description[
+
+**YAŞADIĞIN YERİN ; 
+
+📅Tarihi : $date
+
+🕐Saati : $hour
+
+⏲️Dakikası : $minute
+
+⌛Saniyesi : $second**]
+
+$footer[👤 $username Tarafından kullanıldı]
+
+$footerIcon[$authorAvatar]
+
+$color[00FFDC]
+
+$addTimestamp
+
+$replyIn[2s] 
+
+```
